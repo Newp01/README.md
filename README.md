@@ -5,7 +5,7 @@ Surrounded by Javascript <br/><img align="right" src="https://github.com/rajput2
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viveknimbolkar&label=Profile%20views&color=0e75b6&style=flat" alt="viveknimbolkar" /> </p>
 
-(https://youtube.com/c/Technovik)
+(https://youtube.com/c/islamicuae)
 
 <a href="https://github.com/viveknimbolkar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viveknimbolkar&theme=tokyonight&show_icons=true" />
